@@ -1,4 +1,4 @@
-# Nathan Moore
+pops
 # starting from from adafruit example
 # https://learn.adafruit.com/welcome-to-circuitpython/creating-and-editing-code
 #
